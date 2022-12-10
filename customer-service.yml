@@ -8,5 +8,5 @@ spring:
     password: admin
   jpa:
     show-sql: true
-    generate-ddl: true
+    generate-ddl: false
     
