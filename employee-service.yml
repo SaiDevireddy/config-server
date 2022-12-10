@@ -1,5 +1,4 @@
-server:
-  port: 8081
+
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -8,5 +7,5 @@ spring:
     password: admin
   jpa:
     show-sql: true
-    generate-ddl: false
+    generate-ddl: true
     
