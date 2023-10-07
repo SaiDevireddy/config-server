@@ -7,7 +7,7 @@ accounts:
   message: "This contact is related to production team config-server"
   contactDetails:
     name: naveen.devireddy  
-    email: naveen-prod@gmail.com
+    email: naveen-prod-test@gmail.com
   contactNumber:
   - 7207413645
   - 8765678777
