@@ -6,7 +6,7 @@ spring:
 accounts:
   message: "This contact is related to dev team config-server"
   contactDetails:
-    name: sainaveen 
+    name: sainaveens 
     email: naveen@gmail.com
   contactNumber:
   - 7207413645
