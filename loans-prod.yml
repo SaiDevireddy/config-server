@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile:
+      - prod
+accounts:
+  message: "This loans Ms, contact to production team"
+  contactDetails:
+    name: sai.devireddy  
+    email: sai@gmail.com
+  contactNumber:
+  - 7207413645
+  - 8765678777
+build:
+  version: "loans-prod-1.3"

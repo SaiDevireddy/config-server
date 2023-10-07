@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile:
+      - dev
+accounts:
+  message: "This Cards Ms, contact to DEV team"
+  contactDetails:
+    name: sai.devireddy  
+    email: sai@gmail.com
+  contactNumber:
+  - 7207413645
+  - 8765678777
+build:
+  version: "cards-dev-1.3"

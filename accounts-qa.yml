@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile:
+      - qa
+accounts:
+  message: "This contact is related to QA team config-server"
+  contactDetails:
+    name: dev.devireddy  
+    email: dev@gmail.com
+  contactNumber:
+  - 7207413645
+  - 8765678777
+
+build:
+  version: 1.5

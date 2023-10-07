@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile:
+      - dev
+accounts:
+  message: "This contact is related to dev team config-server"
+  contactDetails:
+    name: sai.devireddy  
+    email: sai@gmail.com
+  contactNumber:
+  - 7207413645
+  - 8765678777
+build:
+  version: 1.3

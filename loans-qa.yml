@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile:
+      - qa
+accounts:
+  message: "This loans Ms, contact to QA team"
+  contactDetails:
+    name: sai.devireddy  
+    email: sai@gmail.com
+  contactNumber:
+  - 7207413645
+  - 8765678777
+build:
+  version: "loans-qa-1.3"
